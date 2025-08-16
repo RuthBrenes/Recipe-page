@@ -1,7 +1,7 @@
 /* Outfit Regular */
 @font-face {
   font-family: 'Outfit';
-  src: url('./assets/fonts/outfit/static/Outfit-Regular.ttf') format('truetype');
+  src: url('assets/fonts/outfit/static/Outfit-Regular.ttf') format('truetype');
   font-weight: 400; /* peso normal */
   font-style: normal;
 }
@@ -9,7 +9,7 @@
 /* Outfit Bold */
 @font-face {
   font-family: 'Outfit';
-  src: url('./assets/fonts/outfit/static/Outfit-Bold.ttf') format('truetype');
+  src: url('assets/fonts/outfit/static/Outfit-Bold.ttf') format('truetype');
   font-weight: 700; /* negrita */
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 /* Young Serif */
 @font-face {
   font-family: 'Young Serif';
-  src: url('./assets/fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
+  src: url('assets/fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
   font-weight: 400; /* peso normal */
   font-style: normal;
 }
